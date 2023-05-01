@@ -1,0 +1,17 @@
+{
+  "name": "sensordata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "data.js",
+  "scripts": {
+    "start": "nodemon data.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.0.5",
+    "mqtt": "^4.3.7",
+    "nodemon": "^2.0.22"
+  }
+}
